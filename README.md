@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/90-TinhMercedes/90-TinhMercedes/blob/main/90_TinhMercedes.png)
+![Design and Development](https://github.com/90-TinhMercedes/90-TinhMercedes/blob/main/banner_github.png)
 # Tinh Nguyen Vu Chi
 I am a cheerful and sociable person. When you have difficulty, you can come to me to share, I am always available.
 - 🔭 I’m currently working on HaUI - Hanoi University of Industry.
