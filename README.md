@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=90-TinhMercedes&color=blue)
 ![Design and Development](https://github.com/90-TinhMercedes/90-TinhMercedes/blob/main/banner_github.png)
 # Tinh Nguyen Vu Chi
 I am a fun and sociable person but serious at work. When you have difficulties, you can find me to share, I am always ready to listen, help and share with you.
@@ -7,7 +8,7 @@ I am a fun and sociable person but serious at work. When you have difficulties, 
 
 **Skills:** JAVA / ANDROID / MySQL / C++ / HTML / CSS / JS
 ## Top languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=90-TinhMercedes&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=90-TinhMercedes)
 
 ## You can find me at:
 
