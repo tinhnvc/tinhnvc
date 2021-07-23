@@ -6,7 +6,7 @@ I am a fun and sociable person but serious at work. When you have difficulties, 
 - 💬 I am learning and developing on Android platform. Going forward, I plan to learn more Flutter and React Native framework.
 ## Design and Development
 
-**Skills:** JAVA / ANDROID / MySQL / C++ / HTML / CSS / JS
+**Skills:** JAVA / ANDROID / DART / MySQL / HTML / CSS / JS / C++
 ## Top languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=90-TinhMercedes)
 
