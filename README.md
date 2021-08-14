@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=90-TinhMercedes&color=blue)
 
-  <a href="https://github.com/90-TinhMercedes?tab=followers">
+  <a href="https://github.com/90-TinhMercedes?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/90-TinhMercedes?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/90_TinhMercedes">
+  <a href="http://twitter.com/90_TinhMercedes" target="_blank">
     <img src="https://img.shields.io/twitter/follow/90_TinhMercedes?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/channel/UCoabWPeJLSzw80FVd9SyG8A/featured">
+  <a href="http://youtube.com/channel/UCoabWPeJLSzw80FVd9SyG8A/featured" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCoabWPeJLSzw80FVd9SyG8A?style=for-the-badge" />
   </a>
 
@@ -38,25 +38,25 @@ I am a fun and sociable person but serious at work. When you have difficulties, 
 
 
 
-<a href="https://twitter.com/90_TinhMercedes">
+<a href="https://twitter.com/90_TinhMercedes" target="_blank">
   <img align="left" alt="TinhMercedes's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://github.com/90-TinhMercedes">
+<a href="https://github.com/90-TinhMercedes" target="_blank">
   <img align="left" alt="TinhMercedes's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/90_tinhmercedes/">
+<a href="https://www.instagram.com/90_tinhmercedes/" target="_blank">
   <img align="left" alt="TinhMercedes's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/90.TinhMercedes/">
+<a href="https://www.facebook.com/90.TinhMercedes/" target="_blank">
   <img align="left" alt="TinhMercedes's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://dev.to/90_tinhmercedes">
+<a href="https://dev.to/90_tinhmercedes" target="_blank">
   <img align="left" alt="TinhMercedes's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCoabWPeJLSzw80FVd9SyG8A">
+<a href="https://www.youtube.com/channel/UCoabWPeJLSzw80FVd9SyG8A" target="_blank">
   <img align="left" alt="TinhMercedes's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.linkedin.com/in/90-tinhmercedes/">
+<a href="https://www.linkedin.com/in/90-tinhmercedes/" target="_blank">
   <img align="left" alt="TinhMercedes's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
