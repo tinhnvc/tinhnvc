@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCoabWPeJLSzw80FVd9SyG8A?style=for-the-badge" />
   </a>
 
-![Design and Development](https://github.com/90-TinhMercedes/90-TinhMercedes/blob/main/banner_github.png)
+
 # 𝑻𝒊𝒏𝒉 𝑵𝒈𝒖𝒚𝒆𝒏 𝑽𝒖 𝑪𝒉𝒊
 𝐼 𝑎𝑚 𝑎 𝑓𝑢𝑛 𝑎𝑛𝑑 𝑠𝑜𝑐𝑖𝑎𝑏𝑙𝑒 𝑝𝑒𝑟𝑠𝑜𝑛 𝑏𝑢𝑡 𝑠𝑒𝑟𝑖𝑜𝑢𝑠 𝑎𝑡 𝑤𝑜𝑟𝑘. 𝑊ℎ𝑒𝑛 𝑦𝑜𝑢 ℎ𝑎𝑣𝑒 𝑑𝑖𝑓𝑓𝑖𝑐𝑢𝑙𝑡𝑖𝑒𝑠, 𝑦𝑜𝑢 𝑐𝑎𝑛 𝑓𝑖𝑛𝑑 𝑚𝑒 𝑡𝑜 𝑠ℎ𝑎𝑟𝑒, 𝐼 𝑎𝑚 𝑎𝑙𝑤𝑎𝑦𝑠 𝑟𝑒𝑎𝑑𝑦 𝑡𝑜 𝑙𝑖𝑠𝑡𝑒𝑛, ℎ𝑒𝑙𝑝 𝑎𝑛𝑑 𝑠ℎ𝑎𝑟𝑒 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢.
 - 💬 I’m currently working on HaUI - Hanoi University of Industry.
