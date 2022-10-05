@@ -21,35 +21,35 @@
 <br/>
 
 ## 𝑻𝒐𝒑 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=90-TinhMercedes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinhnvc)
 
 ## 𝒀𝒐𝒖 𝒄𝒂𝒏 𝒇𝒊𝒏𝒅 𝒎𝒆 𝒂𝒕:
 
 
 
 <a href="https://twitter.com/90_TinhMercedes" target="_blank">
-  <img align="left" alt="TinhMercedes's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Tinh Nguyen's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://github.com/90-TinhMercedes" target="_blank">
-  <img align="left" alt="TinhMercedes's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/tinhnvc" target="_blank">
+  <img align="left" alt="Tinh Nguyen's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/Tinh_RTX">
-  <img align="left" alt="Pawan's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/tinhnvc">
+  <img align="left" alt="Tinh Nguyen's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/90_tinhmercedes/" target="_blank">
-  <img align="left" alt="TinhMercedes's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Tinh Nguyen's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/90.TinhMercedes/" target="_blank">
-  <img align="left" alt="TinhMercedes's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/tinh.nvc/" target="_blank">
+  <img align="left" alt="Tinh Nguyen's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://dev.to/90_tinhmercedes" target="_blank">
-  <img align="left" alt="TinhMercedes's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />
+  <img align="left" alt="Tinh Nguyen's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCoabWPeJLSzw80FVd9SyG8A" target="_blank">
-  <img align="left" alt="TinhMercedes's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Tinh Nguyen's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://www.linkedin.com/in/90-tinhmercedes/" target="_blank">
-  <img align="left" alt="TinhMercedes's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tinh Nguyen's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <!--
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/90-TinhMercedes) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='30'>](https://dev.to/90_tinhmercedes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/90.TinhMercedes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/90_tinhmercedes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/90_TinhMercedes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/UCoabWPeJLSzw80FVd9SyG8A)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/tinhnvc) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='30'>](https://dev.to/90_tinhmercedes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/tinh.nvc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/90_tinhmercedes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/90_TinhMercedes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/UCoabWPeJLSzw80FVd9SyG8A)
 <br/>
 
 -->
