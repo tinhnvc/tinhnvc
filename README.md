@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=90-TinhMercedes&color=blue)
 # 𝑻𝒊𝒏𝒉 𝑵𝒈𝒖𝒚𝒆𝒏 𝑽𝒖 𝑪𝒉𝒊
 𝐼 𝑎𝑚 𝑎 𝑓𝑢𝑛 𝑎𝑛𝑑 𝑠𝑜𝑐𝑖𝑎𝑏𝑙𝑒 𝑝𝑒𝑟𝑠𝑜𝑛 𝑏𝑢𝑡 𝑠𝑒𝑟𝑖𝑜𝑢𝑠 𝑎𝑡 𝑤𝑜𝑟𝑘. 𝑊ℎ𝑒𝑛 𝑦𝑜𝑢 ℎ𝑎𝑣𝑒 𝑑𝑖𝑓𝑓𝑖𝑐𝑢𝑙𝑡𝑖𝑒𝑠, 𝑦𝑜𝑢 𝑐𝑎𝑛 𝑓𝑖𝑛𝑑 𝑚𝑒 𝑡𝑜 𝑠ℎ𝑎𝑟𝑒, 𝐼 𝑎𝑚 𝑎𝑙𝑤𝑎𝑦𝑠 𝑟𝑒𝑎𝑑𝑦 𝑡𝑜 𝑙𝑖𝑠𝑡𝑒𝑛, ℎ𝑒𝑙𝑝 𝑎𝑛𝑑 𝑠ℎ𝑎𝑟𝑒 𝑤𝑖𝑡ℎ 𝑦𝑜𝑢.
-- 💬 I’m currently working on HaUI - Hanoi University of Industry.
-- 💬 I am learning and developing on Android platform. Going forward, I plan to learn more Flutter and React Native framework.
 
 ##  𝑫𝒆𝒔𝒊𝒈𝒏 𝒂𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
 
@@ -27,7 +25,7 @@
 
 
 
-<a href="https://twitter.com/90_TinhMercedes" target="_blank">
+<a href="https://twitter.com/tinhnvc" target="_blank">
   <img align="left" alt="Tinh Nguyen's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/tinhnvc" target="_blank">
@@ -36,13 +34,13 @@
 <a href="https://t.me/tinhnvc">
   <img align="left" alt="Tinh Nguyen's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/90_tinhmercedes/" target="_blank">
+<a href="https://www.instagram.com/tinh.nvc/" target="_blank">
   <img align="left" alt="Tinh Nguyen's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/tinh.nvc/" target="_blank">
   <img align="left" alt="Tinh Nguyen's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://dev.to/90_tinhmercedes" target="_blank">
+<a href="https://dev.to/tinhnvc" target="_blank">
   <img align="left" alt="Tinh Nguyen's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCoabWPeJLSzw80FVd9SyG8A" target="_blank">
